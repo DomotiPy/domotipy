@@ -1,0 +1,40 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Editor/IDE artifacts
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Test output
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Config backups
+config/*.bak
